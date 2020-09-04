@@ -1,2 +1,2 @@
 # space-invaders
-A remake of the classical Space Invaders game.
+A remake of the classic Space Invaders game using Processing.
